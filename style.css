@@ -1,0 +1,18 @@
+/* select all links */
+a {
+  color: blue;
+}
+
+/* select object */
+div.views-field.views-field-nothing > span > p:nth-child(6) > font > font {
+  color: blue;
+}
+
+/* select bidding date */
+div.views-field.views-field-nothing > span > span:nth-child(19) > font > font {
+  color: blue;
+}
+
+div.views-field.views-field-nothing > span > span:nth-child(1) > font > font {
+  color: blue;
+}
